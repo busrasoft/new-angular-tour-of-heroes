@@ -29,4 +29,10 @@
   # Create the MessageService
   -  ng generate service message
 
+  # Add the AppRoutingModule
+  - ng generate module app-routing --flat --module=app
+
+  # Add a dashboard view
+  - ng generate component dashboard
+
   
