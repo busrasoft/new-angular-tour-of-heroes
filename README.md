@@ -20,3 +20,13 @@
   # Use the Angular CLI to generate a new component named hero-detail.
   - ng generate component hero-detail
     
+  # Create the HeroService
+  - ng generate service hero
+
+  # Create MessagesComponent
+  - ng generate component messages
+
+  # Create the MessageService
+  -  ng generate service message
+
+  
